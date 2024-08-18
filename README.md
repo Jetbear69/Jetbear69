@@ -5,9 +5,15 @@
 </div>
 <br>
 
+
 Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I began the path of becoming a self-taught programmer, currently I am still learning new languages ​​and the use of frameworks, I hope to start a career in Systems Engineering this 2024 and create more projects for a future job, I would also like to be able to contribute and work as a team, if you need any help, no matter how small, you can contact me.
+<br>
+<br>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Jetbear69/Jetbear69/main/assets/Ry6p.gif" width="200" height="200" />
 
 ### ⚡ &nbsp;&nbsp;Quickly Information:
+
 
 - 🔭 &nbsp;I’m currently working on Concentrix at Support
 - 🌱 &nbsp;I’m currently learning React and others languages
@@ -15,7 +21,10 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 - 📫 &nbsp;How to reach me: ohuamanm@gmail.com
 - 🎯 &nbsp;Fun fact: i 🧡 videogames 🎮 and music 🎵
 
+<br>
+
 ### 💻 &nbsp;&nbsp;Some technologies I use:
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -46,20 +55,33 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier">&nbsp;&nbsp;
   
 </p>
+<br>
 
 ### ⚒️ &nbsp;&nbsp;My study projects:
+<br>
 
-- &nbsp;Oracle + Alura Latam ONE Challenge #1 Encriptador de Textos - deCody
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=Encriptador-deCody&theme=aura" />
 
+<br>
+
 ### ⚒️ &nbsp;&nbsp;My personal projects:
+<br>
 
 - &nbsp;Under construction!
 
+<br>
+
 ### 📈 &nbsp;&nbsp;Some of my stats are:
+<br>
 
 &nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jetbear69&theme=aura&rank_icon=github" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jetbear69&theme=aura&langs_count=8&card_width=324" />
 
-### 🌎 &nbsp;&nbsp;You find me on:
+<br>
 
-- &nbsp;<a href="https:/linkedin.com/oliverdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+### 🌎 &nbsp;&nbsp;You find me on:
+<br>
+
+&nbsp;&nbsp;<a href="https:/linkedin.com/oliverdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://app.daily.dev/0liver_dev"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
+<a href="https://dev.to/0liver_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
