@@ -1,10 +1,14 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jetbear69&bg=black&fill=white&txt=A%20Front-end%20Developer"></p>
 
+
 <div align="center">
+<strong>Glad to see you here!</strong> &nbsp;
    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jetbear69.Jetbear69" alt="visitor badge"/>
 </div>
 <br>
 
+
+### 🙋‍♂️ &nbsp;&nbsp;About me:
 
 Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I began the path of becoming a self-taught programmer, currently I am still learning new languages ​​and the use of frameworks, I hope to start a career in Systems Engineering this 2024 and create more projects for a future job, I would also like to be able to contribute and work as a team, if you need any help, no matter how small, you can contact me.
 <br>
@@ -81,7 +85,7 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 ### 🌎 &nbsp;&nbsp;You find me on:
 <br>
 
-&nbsp;&nbsp;<a href="https:/linkedin.com/oliverdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://app.daily.dev/0liver_dev"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
+&nbsp;&nbsp;<a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https:/linkedin.com/oliverdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/0liver_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://app.daily.dev/0liver_dev"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
