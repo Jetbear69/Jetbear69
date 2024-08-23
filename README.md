@@ -1,4 +1,8 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jetbear69&bg=black&fill=white&txt=A%20Front-end%20Developer"></p>
+<p align="center">
+
+   ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/0c406043-0bcb-4136-b849-202226ac2a38)
+
+</p>
 
 
 <div align="center">
