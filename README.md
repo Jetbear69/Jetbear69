@@ -1,6 +1,6 @@
 <p align="center">
 
-   ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/0c406043-0bcb-4136-b849-202226ac2a38)
+   ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/8784d4c6-905d-4924-af63-b61908e81925)
 
 </p>
 
