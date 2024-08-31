@@ -31,8 +31,21 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 <br>
 
-### 💻 &nbsp;&nbsp;Some technologies I use:
+### ⚒️ &nbsp;&nbsp;Academy projects:
 <br>
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=Encriptador-deCody&theme=aura" />
+
+<br>
+
+### ⚒️ &nbsp;&nbsp;Personal projects:
+<br>
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=portfolio-project&theme=aura" />
+
+<br>
+
+### 💻 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -65,20 +78,6 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 </p>
 <br>
 
-### ⚒️ &nbsp;&nbsp;My study projects:
-<br>
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=Encriptador-deCody&theme=aura" />
-
-<br>
-
-### ⚒️ &nbsp;&nbsp;My personal projects:
-<br>
-
-- &nbsp;Under construction!
-
-<br>
-
 ### 📈 &nbsp;&nbsp;Some of my stats are:
 <br>
 
@@ -89,7 +88,10 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 ### 🌎 &nbsp;&nbsp;You find me on:
 <br>
 
-&nbsp;&nbsp;<a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https:/linkedin.com/oliverdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/0liver_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://app.daily.dev/0liver_dev"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
