@@ -82,7 +82,13 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <br>
 
 &nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jetbear69&theme=aura&rank_icon=github" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jetbear69&theme=aura&langs_count=8&card_width=324" />
+<br>
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jetbear69&theme=aura&mode=weekly&card_width=790&card_height=200)](https://git.io/streak-stats"/>
+<br>
 
+&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-stats?login=Jetbear69" />
+<br>
+&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-trophies?login=Jetbear69" />
 <br>
 
 ### 🌎 &nbsp;&nbsp;You find me on:
