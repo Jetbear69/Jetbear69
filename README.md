@@ -11,17 +11,19 @@
 </div>
 <br>
 
+<hr size="0.5px">
 
-### 🙋‍♂️ &nbsp;&nbsp;About me:
+🙎‍♂️ &nbsp;&nbsp;<strong>About me:</strong>
 
 Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I began the path of becoming a self-taught programmer, currently I am still learning new languages ​​and the use of frameworks, I hope to start a career in Systems Engineering this 2024 and create more projects for a future job, I would also like to be able to contribute and work as a team, if you need any help, no matter how small, you can contact me.
 <br>
 <br>
 
+<hr size="0.5px">
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Jetbear69/Jetbear69/main/assets/Ry6p.gif" width="200" height="200" />
 
-### ⚡ &nbsp;&nbsp;Quickly Information:
-
+⚡ &nbsp;&nbsp;<strong>Quickly Information:</strong>
 
 - 🔭 &nbsp;I’m currently working on Concentrix at Support
 - 🌱 &nbsp;I’m currently learning React and others languages
@@ -31,54 +33,111 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 <br>
 
-### ⚒️ &nbsp;&nbsp;Academy projects:
+<hr size="0.5px">
+
+⚒️ &nbsp;&nbsp;<strong>Academy projects:</strong>
 <br>
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=Encriptador-deCody&theme=aura" />
 
 <br>
 
-### ⚒️ &nbsp;&nbsp;Personal projects:
+<hr size="0.5px">
+
+⚒️ &nbsp;&nbsp;<strong>Personal projects:</strong>
 <br>
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jetbear69&repo=portfolio-project&theme=aura" />
 
 <br>
 
-### 💻 &nbsp;&nbsp;Some technologies I use:
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff" alt="Chocolatey">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Npm">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier">&nbsp;&nbsp;
-  
-</p>
+<hr size="0.5px">
+
+<div align="center">
+📔 &nbsp;&nbsp;<strong>Some technologies I use:</strong>
+</div>
+
 <br>
 
-### 📈 &nbsp;&nbsp;Some of my stats are:
+👨‍💻 &nbsp;&nbsp;Programming Languages:
+<br>
+
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">&nbsp;&nbsp;
+<br>
+
+<hr size="0.5px">
+
+🧰 &nbsp;&nbsp;Frameworks and Libraries:
+<br>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff">&nbsp;&nbsp;
+<br>
+
+<hr size="0.5px">
+
+🗄️ &nbsp;&nbsp;Databases and Cloud Hosting:
+<br>
+
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white">&nbsp;&nbsp;
+<br>
+
+<hr size="0.5px">
+
+💻 &nbsp;&nbsp;Software and Tools:
+<br>
+
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;&nbsp;
+<br>
+
+<hr size="0.5px">
+
+🧙 &nbsp;&nbsp;Learning in free times:
+<br>
+
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">&nbsp;&nbsp;
+<br>
+
+<hr size="0.5px">
+
+📈 &nbsp;&nbsp;<strong>Some of my stats are:</strong>
 <br>
 
 &nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jetbear69&theme=aura&rank_icon=github" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jetbear69&theme=aura&langs_count=8&card_width=324" />
@@ -91,7 +150,9 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 &nbsp;<img height="200" src="https://stats.dooboo.io/api/github-trophies?login=Jetbear69" />
 <br>
 
-### 🌎 &nbsp;&nbsp;You find me on:
+<hr size="0.5px">
+
+🌎 &nbsp;&nbsp;<strong>You find me on:</strong>
 <br>
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white"/>
@@ -101,3 +162,4 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white"/>
