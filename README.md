@@ -29,7 +29,7 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 - 🌱 &nbsp;I’m currently learning React and others languages
 - 🤝 &nbsp;I’m looking to collaborate on create apps and web games design
 - 📫 &nbsp;How to reach me: ohuamanm@gmail.com
-- 🎯 &nbsp;Fun fact: i 🧡 videogames 🎮 and music 🎵
+- 🎯 &nbsp;Hobbies: i 🧡 videogames 🎮 and music 🎵
 
 <br>
 
@@ -144,10 +144,7 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <br>
 &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jetbear69&theme=aura&mode=weekly&card_width=790&card_height=200)](https://git.io/streak-stats"/>
 <br>
-
-&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-stats?login=Jetbear69" />
-<br>
-&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-trophies?login=Jetbear69" />
+&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-stats?login=Jetbear69" /><img height="200" src="https://stats.dooboo.io/api/github-trophies?login=Jetbear69" />
 <br>
 
 <hr size="0.5px">
