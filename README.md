@@ -139,12 +139,40 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 📈 &nbsp;&nbsp;<strong>Some of my stats are:</strong>
 <br>
-
-&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jetbear69&theme=aura&rank_icon=github" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jetbear69&theme=aura&langs_count=8&card_width=324" />
-<br>
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jetbear69&theme=aura&mode=weekly&card_width=790&card_height=200)](https://git.io/streak-stats"/>
-<br>
-&nbsp;<img height="200" src="https://stats.dooboo.io/api/github-stats?login=Jetbear69" /><img height="200" src="https://stats.dooboo.io/api/github-trophies?login=Jetbear69" />
+<table>
+  <tr>
+     <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jetbear69&theme=aura&border_radius=5"/>
+     </td>
+     <td>
+        <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jetbear69&theme=aura&border_radius=5"/>
+     </td>
+  </tr>
+</table>
+<table>
+   <tr>
+    <td>
+      <img width= 330 height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jetbear69&hide_border=true&layout=compact&langs_count=8&theme=aura&border_radius=5" alt="Top Languages">
+    </td>
+    <td>
+      <img width= 330 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jetbear69&theme=aura&border_radius=5" alt="Repos Per Language">
+    </td>
+    <td>
+      <img width= 330 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jetbear69&theme=aura&border_radius=5" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+<table>
+   <tr>
+      <td>
+         <img width=650 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jetbear69&theme=aura&mode=weekly&border_radius=5&hide_border=true"/>
+      </td>
+      <td>
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jetbear69&theme=aura&utcOffset=-5&border_radius=5"/>
+      </td>
+   </tr>
+</table>
+<img src="https://stats.hyo.dev/api/github-stats?login=Jetbear69" width="600" /><img src="https://stats.hyo.dev/api/github-trophies?login=Jetbear69" width="600" />
 <br>
 
 <hr size="0.5px">
@@ -160,3 +188,5 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white"/>
+
+<img src="https://camo.githubusercontent.com/01613641e066bc78acfda1be0d89b5010939de377b715d7d24b370434bde46cb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f746572" style="width: 150vh;"/>
