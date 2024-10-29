@@ -25,11 +25,12 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 ⚡ &nbsp;&nbsp;<strong>Quickly Information:</strong>
 
-- 🔭 &nbsp;I’m currently working on Concentrix at Support
-- 🌱 &nbsp;I’m currently learning React and others languages
-- 🤝 &nbsp;I’m looking to collaborate on create apps and web games design
+- 🔭 &nbsp;I'm currently working on Concentrix at Support
+- 🌱 &nbsp;I'm currently studying to become a technical professional in Information Systems Development
+- 🤝 &nbsp;I'm looking to collaborate on create apps and web games design
 - 📫 &nbsp;How to reach me: ohuamanm@gmail.com
 - 🎯 &nbsp;Hobbies: i 🧡 videogames 🎮 and music 🎵
+- 🎓 &nbsp;Education: <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"><img src="https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff"><img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff">
 
 <br>
 
@@ -68,9 +69,9 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white">&nbsp;&nbsp;
 <br>
 
 <hr size="0.5px">
@@ -84,19 +85,34 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">&nbsp;&nbsp;
+
 <br>
 
 <hr size="0.5px">
 
-🗄️ &nbsp;&nbsp;Databases and Cloud Hosting:
+🗄️ &nbsp;&nbsp;Databases & Cloud Hosting:
 <br>
 
 <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;&nbsp;
 <br>
 
 <hr size="0.5px">
@@ -121,6 +137,8 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;&nbsp;
 <br>
 
 <hr size="0.5px">
@@ -130,9 +148,9 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">&nbsp;&nbsp;
 <br>
 
 <hr size="0.5px">
