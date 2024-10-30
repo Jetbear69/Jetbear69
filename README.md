@@ -71,7 +71,6 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white">&nbsp;&nbsp;
 <br>
 
 <hr size="0.5px">
@@ -96,6 +95,9 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white">&nbsp;&nbsp;
 
 <br>
 
