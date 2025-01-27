@@ -69,8 +69,6 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;&nbsp;
-<!--<img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">&nbsp;&nbsp;-->
-<!--<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">&nbsp;&nbsp;-->
 <br>
 
 <hr size="0.5px">
@@ -83,16 +81,10 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
-<!--<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">&nbsp;&nbsp;-->
-<!--<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">&nbsp;&nbsp;-->
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
-<!--<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">&nbsp;&nbsp;-->
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82">&nbsp;&nbsp;
-<!--<img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white">&nbsp;&nbsp;-->
-<!--<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">&nbsp;&nbsp;-->
-<!--<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;&nbsp;-->
 <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">&nbsp;&nbsp;
@@ -144,7 +136,6 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">&nbsp;&nbsp;
-<!--<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">&nbsp;&nbsp;-->
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">&nbsp;&nbsp;
 <br>
