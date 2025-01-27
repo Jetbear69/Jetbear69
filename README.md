@@ -30,7 +30,7 @@ Hello 👋, my name is Erick Oliver from Lima-Perú, since the end of 2023 I beg
 - 🤝 &nbsp;I'm looking to collaborate on create apps and web games design
 - 📫 &nbsp;How to reach me: ohuamanm@gmail.com
 - 🎯 &nbsp;Hobbies: i 🧡 videogames 🎮 and music 🎵
-- 🎓 &nbsp;Education:Institute Continental Carrer: Information Systems Develepment
+- 🎓 &nbsp;Education: Institute Continental / Information Systems Develepment
 
 <br>
 
